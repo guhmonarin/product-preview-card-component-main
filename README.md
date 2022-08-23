@@ -25,7 +25,9 @@ Os usuários devem ser capazes de:
 - Visualizar o layout ideal dependendo do tamanho da tela do dispositivo
 
 ### Captura de tela
+![](./screenshot/desktop.PNG)
 
+![](./screenshot/mobile.PNG)
 
 ### Links
 
