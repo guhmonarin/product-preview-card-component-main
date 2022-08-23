@@ -138,3 +138,11 @@ body {
     }
 
 }
+
+@media (max-width: 350px) {
+    .principal__preco {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
