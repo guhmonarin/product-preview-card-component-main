@@ -25,12 +25,14 @@ Os usuários devem ser capazes de:
 - Visualizar o layout ideal dependendo do tamanho da tela do dispositivo
 
 ### Captura de tela
+![](./screenshot/desktop.PNG)
 
+![](./screenshot/mobile.png)
 
 ### Links
 
 - URL da solução: [Github](https://github.com/guhmonarin/product-preview-card-component-main)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL do site ao vivo: [Vercel]([https://your-live-site-url.com](https://product-preview-card-component-main-brown-rho.vercel.app/))
 
 ## Meu processo
 
